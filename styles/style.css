@@ -1,3 +1,9 @@
 .owner-name {
   color: blue;
 }
+.profile-card {
+  background-color: blueviolet;
+  padding: 20px;
+  border-radius: 10px;
+  color: darkblue;
+}
